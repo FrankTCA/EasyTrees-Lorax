@@ -1,0 +1,4 @@
+execute as @s[tag=sky_small] if score plant_time skyplant_t matches 1 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{name:"skyplants:template60/template60_1",mode:"LOAD",posX:0,posY:0,posZ:0}
+execute as @s[tag=sky_small] if score plant_time skyplant_t matches 2 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{name:"skyplants:template60/template60_2",mode:"LOAD",posX:0,posY:0,posZ:0}
+execute as @s[tag=sky_small] if score plant_time skyplant_t matches 3 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{name:"skyplants:template60/template60_3",mode:"LOAD",posX:0,posY:0,posZ:0}
+execute as @s[tag=sky_small] if score plant_time skyplant_t matches 4 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{name:"skyplants:template60/template60_4",mode:"LOAD",posX:0,posY:0,posZ:0}

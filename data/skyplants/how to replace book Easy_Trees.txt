@@ -1,0 +1,5 @@
+1. To update the book follow-------EASY_TREES\data\skyplants\functions\crafting\get_plants
+	
+	*****Template:     summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:written_book",Count:1b,tag:******PASTE BOOK INFO HERE starting from "{pages:"******}}
+
+
